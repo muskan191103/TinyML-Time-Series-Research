@@ -1,5 +1,5 @@
 
-# Efficient Time Series Forecasting Using TinyML Models
+# Efficient Time Series Classification Using TinyML Models
 
 **Research Internship Project | Indian Institute of Information Technology Lucknow**
 
